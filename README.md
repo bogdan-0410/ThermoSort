@@ -1,12 +1,12 @@
 # ThermoSort
 
-A device that uses a thermal camera to detect hidden lithium-ion batteries in plastic waste before recycling.
+A device that uses a thermal camera and ultrasonic sensors to detect hidden lithium-ion batteries in plastic waste before recycling.
 
 ## About
 
 ThermoSort is a STEM project designed to make plastic recycling safer.
 
-Lithium-ion batteries can accidentally end up in plastic waste and can cause fires during recycling. ThermoSort uses a thermal camera to detect possible batteries before the plastic enters the recycling process.
+Lithium-ion batteries can accidentally end up in plastic waste and can cause fires during recycling. ThermoSort uses a thermal camera and ultrasonic sensors to detect possible batteries before the plastic enters the recycling process.
 
 ## Current Progress
 
@@ -14,7 +14,7 @@ Lithium-ion batteries can accidentally end up in plastic waste and can cause fir
 
 - [x] Electronic schematic
 
-- [WIP] PCB design
+- [ ] PCB design
 
 - [ ] Prototype
 
@@ -29,6 +29,8 @@ Lithium-ion batteries can accidentally end up in plastic waste and can cause fir
 - RP2040
 
 - MLX90640 thermal camera
+
+- Ultrasonic transmitters and receivers
 
 - ESP32-C3
 
@@ -54,8 +56,8 @@ The goal of ThermoSort is to create a working prototype that can help detect hid
 
 - Fusion 360
 
-- Thermal Imaging
+- Thermal & Ultrasonic Imaging
 
 ## Author
 
-Bogdan Petre
+Petre Bogdan-Gabriel
