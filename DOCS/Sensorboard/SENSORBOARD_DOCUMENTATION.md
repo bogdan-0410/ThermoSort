@@ -25,6 +25,6 @@ The ultrasonic system consists of:
 
 ## Communication System
 
-The Sensor Board does not process the sensor data by itself because it does not contain a microprocessor. It connects to the ThermoSort main board through an 8-pin connector that provides power and carries the signals for the thermal and ultrasonic systems.
+The Sensor Board does not process the sensor data by itself because it does not contain a microprocessor. It connects to the ThermoSort Main Board through an 8-pin connector that provides power and carries the signals for the thermal and ultrasonic systems.
 
-The main board processes the sensor data and communicates with the rest of the system. The Sensor Board can be used with a suitable microprocessor, provided that it has sufficient processing capability and enough I/O interfaces to operate the sensors.
+The Main Board processes the sensor data and communicates with the rest of the system. The Sensor Board can be used with a suitable microprocessor, provided that it has sufficient processing capability and enough I/O interfaces to operate the sensors.
